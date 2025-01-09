@@ -16,16 +16,28 @@ body {
   background-color:#F6EFA6;
 }
 
-p {
+h1{
   color:yellow;
-  font-family: myFont;
+  font-family: secondFont;
   text-align: center;
   font-size: 100px;
 }
 
+p {
+  color:black;
+  font-family: secondFont;
+  text-align: center;
+  font-size: 20px;
+}
+
+#slogan {
+  padding-top: 10px;
+  padding-bottom:50px;
+}
+
 .title {
   color:yellow;
-  font-family: myFont;
+  font-family: secondFont;
   text-align: center;
   font-size: 250px;
 }
