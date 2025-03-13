@@ -10,8 +10,8 @@ function App() {
     <>
     <Router>
       <Routes>
-        <Route exact path ="/" element={<Homepage/>}/>
-        <Route path ="/recipes" element={<Recipes/>} />
+        <Route exact path = "/" element={<Homepage/>}/>
+        <Route path = "/recipes" element={<Recipes/>} />
       </Routes>
     </Router>
    </>
@@ -19,3 +19,5 @@ function App() {
 }
 
 export default App;
+
+/* <Route path ="/recipes" element={<Recipes/>} /> */
