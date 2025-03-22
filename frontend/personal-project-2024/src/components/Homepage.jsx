@@ -34,7 +34,7 @@ function Homepage(){
     </div>
     <div>
       <h3>Start making recipes that you love to make! </h3>
-      <Link to="/recipes">
+      <Link to="/list-recipes">
         <button>
           Start
         </button>
