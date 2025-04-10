@@ -1,8 +1,8 @@
 ## Welcome to My Recipe Book 📖
 This recipe book came about when I wanted to fix an in real life issue that I have when it comes to cooking.
-I LOVE trying out new recipes, and when coming across one I tend to either write my recipe out on a piece of paper or take a screenshot of it.
-This is fine and all when cooking at the time, until... this piece of paper gets lost, or the screenshot gets buried in the my photo album.
-So, I wanted to make it easier for me to store my favourite recipes without having to look them up again (i know, very lazy). 
+I love trying out new recipes, and when coming across a new one to do, I tend to either have it up on my browser, write my recipe out on a piece of paper or take a screenshot of it or sometimes use my notes app.
+This is fine when I'm already making the recipe, until... this piece of paper gets lost, or the screenshot gets buried in the my photo album and notes.
+To fix these issues, I wanted to make it easier for me to store my favourite recipes without having to look them up again.
 
 Built with:
 - JavaScript
