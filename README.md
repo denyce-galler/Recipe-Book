@@ -1,4 +1,4 @@
-- # Welcome to My Recipe Book 📖
+## Welcome to My Recipe Book 📖
 This recipe book came about when I wanted to fix an in real life issue that I have when it comes to cooking.
 I LOVE trying out new recipes, and when coming across one I tend to either write my recipe out on a piece of paper or take a screenshot of it.
 This is fine and all when cooking at the time, until... this piece of paper gets lost, or the screenshot gets buried in the my photo album.
