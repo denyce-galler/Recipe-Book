@@ -15,8 +15,9 @@ Built with:
 - Axios
   
 ## 👩🏻‍🍳 Current Features
-- 📱 Add
-- 💡 Showcases my projects, skills, and contact info
+- 📱 Input box for name
+- 💡 Routes
+- 🤝 Displaying data from database
 
 ## 🔮 Future Improvements 
 - 🤝 Join tables and improve database
